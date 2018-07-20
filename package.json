@@ -23,7 +23,7 @@
   },
 
   "dependencies": {
-    "request"       : "2.60.0",
+    "request"       : "2.84.0",
     "extend"        : "2.0.1"
   },
 
