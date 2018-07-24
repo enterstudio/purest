@@ -24,7 +24,7 @@
 
   "dependencies": {
     "request"       : "2.60.0",
-    "extend"        : "2.0.1"
+    "extend"        : "2.0.2"
   },
 
   "devDependencies": {
