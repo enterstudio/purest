@@ -19,7 +19,7 @@
   "dependencies": {
     "bluebird"  : "2.9.34",
     "co"        : "4.6.0",
-    "babel"     : "5.8.20"
+    "babel"     : "6.0.0"
   },
 
   "main": "promises.js"
